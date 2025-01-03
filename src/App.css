@@ -32,6 +32,13 @@
   color: white;
 }
 
+.cursor-pointer{
+  cursor: pointer;
+}
+.criteria-met{
+  color: red;
+}
+
 .App-link {
   color: #61dafb;
 }
